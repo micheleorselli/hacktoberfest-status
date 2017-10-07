@@ -83,7 +83,7 @@ class PullRequestChecker
     /**
      * Returns the instance of the Guttle HTTP client.
      *
-     * @return GuzzleHttp\Client client
+     * @return \GuzzleHttp\Client client
      */
     protected function getClient()
     {
